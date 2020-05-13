@@ -1,0 +1,2 @@
+include ':app', ':customp-progress-loader'
+rootProject.name='Custom Progress Loader Demo'
